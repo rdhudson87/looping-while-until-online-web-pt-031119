@@ -4,6 +4,5 @@ def using_until
   puts "Winggardium Leviosa"
   counter += 1
   #your code here
-    
-end
+    end
 
